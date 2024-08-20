@@ -8,7 +8,7 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.hejazizo.com)](https://math.ucdavis.edu/~krc/)
 
 
-- 🎥 My current AI research is in **generative AI for Video**.
+- 🎥 My current AI research is in **foundation models for video** (Generative AI).
 - 🥇 My current math research is in fluid shock formation.
 - 🌲 Currently trying to implement a toy version of [Lumiere](https://lumiere-video.github.io/).
 
