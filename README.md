@@ -9,7 +9,6 @@
 
 
 - 🎥 My current AI research is in **foundation models for video** (Generative AI).
-- 🥇 My current math research is in fluid shock formation.
 - 🌲 Currently trying to implement a toy version of [Lumiere](https://lumiere-video.github.io/).
 
 <h1>  🖥 Skills </h1>
