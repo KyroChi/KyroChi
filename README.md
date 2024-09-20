@@ -1,5 +1,5 @@
 <h1> Kyle R. Chickering </h1>
-<b>Math PhD Student and AI Engineer / Researcher</b>
+<b>AI Reserach Engineer and Applied Mathematics PhD Candidate</b>
 <p> </p>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-r-chickering/)
