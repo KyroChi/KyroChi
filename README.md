@@ -1,5 +1,5 @@
 <h1> Kyle R. Chickering </h1>
-<b>AI Reserach Engineer and Applied Mathematics PhD Candidate</b>
+<b>PhD Candidate studying multi-modal generative AI (text + image)</b>
 <p> </p>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-r-chickering/)
@@ -8,7 +8,8 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.hejazizo.com)](https://math.ucdavis.edu/~krc/)
 
 
-- 🎥 My current AI research is in **foundation models for video** (Generative AI).
+- 🖼️ Currently working on controllability for latent T2I models.
+- 🎥 Previously implemented a VIDIM model to do frame prediction.
 
 <h1> ⚙️ Skills </h1>
 
