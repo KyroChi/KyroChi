@@ -8,8 +8,8 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.hejazizo.com)](https://math.ucdavis.edu/~krc/)
 
 
-- 🖼️ Currently working on controllability for latent T2I models.
-- 🎥 Previously implemented a VIDIM model to do frame prediction.
+- 🖼️ Currently working on multi-modal large vision / language models.
+- 🎥 Previously working on a video foundation model.
 
 <h1> ⚙️ Skills </h1>
 
