@@ -1,5 +1,5 @@
 <h1> Kyle R. Chickering </h1>
-<b>PhD Candidate studying multi-modal generative AI (text + image)</b>
+<b>PhD Candidate studying multi-modal (vision / language) generative AI</b>
 <p> </p>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-r-chickering/)
